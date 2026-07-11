@@ -1,5 +1,5 @@
 [package]
-name = "zed-scap"
+name = "sim-scap"
 description = "Modern, high-performance screen capture library for Rust. Cross-platform."
 version = "0.0.8-zed"
 edition = "2021"
